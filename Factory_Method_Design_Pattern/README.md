@@ -106,5 +106,5 @@ public class FactoryMethodDemo {
 ## Conclusion
 
 The Factory Method Design Pattern is a powerful tool for creating flexible and extensible code. By encapsulating object creation in factory methods, it allows subclasses to define the exact type of objects to be created, promoting code reuse and adherence to design principles like the Single Responsibility Principle. However, it should be used judiciously to avoid unnecessary complexity and class explosion.
-```
+
 

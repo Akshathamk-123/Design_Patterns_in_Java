@@ -45,5 +45,3 @@ Structural patterns deal with object composition or class composition, aiming to
 - Facade
 - Flyweight
 - Proxy
-
-For each pattern explanation, refer to the GitHub repository.

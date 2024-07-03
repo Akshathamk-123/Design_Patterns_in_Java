@@ -1,6 +1,3 @@
-Here is a detailed explanation of the Factory Method Design Pattern, formatted for a README file:
-
-```markdown
 # Factory Method Design Pattern
 
 The Factory Method Design Pattern is a creational design pattern that provides an interface for creating objects in a superclass but allows subclasses to alter the type of objects that will be created. This pattern defines a method, called a factory method, that subclasses override to create and return an object of a specific type.
